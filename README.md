@@ -1,2 +1,2 @@
 # proyecto_parcial-2
-Kindergardianos_Parcial 2
+Parcial 2
